@@ -1,4 +1,4 @@
-# Haunted Jaunt — Proximity Fear System 
+# Haunted Jaunt - Proximity Fear System 👻
 
 I added a unified fear mechanic to the Haunted Jaunt project. As JohnLemon gets closer to any ghost or gargoyle, the tension ramps up through visuals, particles, and audio. It all gets worse if the ghost is behind you.
 
